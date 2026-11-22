@@ -30,7 +30,7 @@
 
 Full-stack web developer focused on building maintainable, responsive, and reliable web applications—bridging intuitive user interfaces with structured application logic and real-world workflows.
 
-- 🔭 **Current focus:** [Scholarify Academy](https://scholarify.id/) & **Sabana Adventure** *(Asah Dicoding Capstone Project)*
+- 🔭 **Current focus:** Real Project **Scholarify Academy**](https://scholarify.id/) & **Sabana Adventure** *(Asah Dicoding Capstone Project)*
 - 🌱 **Continuous learning:** Data Structures & Algorithms (Linked Lists, Trees, Optimization) and scalable UI architecture
 - 💬 **Core expertise:** TypeScript, React, Next.js, Full-Stack Web Development, and Frontend Engineering
 - 📫 **Get in touch:** [ahmdnaim3@gmail.com](mailto:ahmdnaim3@gmail.com)
@@ -55,9 +55,9 @@ Full-stack web developer focused on building maintainable, responsive, and relia
 
 | Project | Overview & Value | Stack & Capabilities | Links |
 | :--- | :--- | :--- | :--- |
-| **Sabana Adventure**<br>*(Asah Dicoding Capstone)* | End-to-end platform combining a **CRM Admin Retail Dashboard** for inventory and customer operations with an interactive **Customer Catalog** storefront. | `Full-Stack` `CRM Dashboard` `Retail Catalog` | [sabana-adv.com](https://sabana-adventure.vercel.app/)
-| **Scholarify Academy Web** | Company profile and SNBT tryout platform featuring structured data analysis to support student evaluation and informed decision-making. | `Next.js` `TypeScript` `Data Analysis` | [Scholarify.id](https://scholarify.id/) 
-| **Aira Dry Cleaning Web** | Digitalized manual record-keeping into a self-service booking workflow—allowing customers to check pricing, schedule pickup/delivery, and view locations without prior chat. | `React` `CRUD System` `Payment Gateway` | [aira-dry-cleaning.com](https://aira-dry-cleaning.vercel.app/)
+| **Sabana Adventure**<br>*(Asah Dicoding Capstone)* | End-to-end platform combining a **CRM Admin Retail Dashboard** for inventory and customer operations with an interactive **Customer Catalog** storefront. | `Full-Stack` `CRM Dashboard` `Retail Catalog` | [sabana-adv.com](https://sabana-adventure.vercel.app/) |
+| **Scholarify Academy Web** | Company profile and SNBT tryout platform featuring structured data analysis to support student evaluation and informed decision-making. | `Next.js` `TypeScript` `Data Analysis` | [Scholarify.id](https://scholarify.id/) |
+| **Aira Dry Cleaning Web** | Digitalized manual record-keeping into a self-service booking workflow—allowing customers to check pricing, schedule pickup/delivery, and view locations without prior chat. | `React` `CRUD System` `Payment Gateway` | [aira-dry-cleaning.com](https://aira-dry-cleaning.vercel.app/) |
 | **Personal Portfolio** | Selected production builds, UI engineering work, and technical notes presented in a clean, focused showcase. | `TypeScript` `Next.js` | [ahmadnaim.site](https://www.ahmadnaim.site) |
 
 ---
@@ -67,7 +67,7 @@ Full-stack web developer focused on building maintainable, responsive, and relia
 <div align="center">
   <a href="https://github.com/zayeenjavas">
     <img height="175em" src="https://github-readme-stats.vercel.app/api?username=zayeenjavas&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="Ahmad Naim's GitHub Stats" />
-    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zayeenjavaslayout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top Languages" />
+    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zayeenjavas&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top Languages" />
   </a>
 </div>
 
