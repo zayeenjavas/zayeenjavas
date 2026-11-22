@@ -55,9 +55,9 @@ Full-stack web developer focused on building maintainable, responsive, and relia
 
 | Project | Overview & Value | Stack & Capabilities | Links |
 | :--- | :--- | :--- | :--- |
-| **Sabana Adventure**<br>*(Asah Dicoding Capstone)* | End-to-end platform combining a **CRM Admin Retail Dashboard** for inventory and customer operations with an interactive **Customer Catalog** storefront. | `Full-Stack` `CRM Dashboard` `Retail Catalog` | ![In Development](https://img.shields.io/badge/Status-In_Development-F59E0B?style=flat-square)<br>[GitHub](https://github.com/ZayeenJavas313) |
-| **Scholarify Academy Web** | Company profile and SNBT tryout platform featuring structured data analysis to support student evaluation and informed decision-making. | `Next.js` `TypeScript` `Data Analysis` | [Live Site](https://scholarify.id/) • [Portfolio](https://www.ahmadnaim.site) |
-| **Aira Dry Cleaning Web** | Digitalized manual record-keeping into a self-service booking workflow—allowing customers to check pricing, schedule pickup/delivery, and view locations without prior chat. | `React` `CRUD System` `Payment Gateway` | [Portfolio](https://www.ahmadnaim.site) • [GitHub](https://github.com/ZayeenJavas313) |
+| **Sabana Adventure**<br>*(Asah Dicoding Capstone)* | End-to-end platform combining a **CRM Admin Retail Dashboard** for inventory and customer operations with an interactive **Customer Catalog** storefront. | `Full-Stack` `CRM Dashboard` `Retail Catalog` | ![In Developmen](https://sabana-adventure.vercel.app/)
+| **Scholarify Academy Web** | Company profile and SNBT tryout platform featuring structured data analysis to support student evaluation and informed decision-making. | `Next.js` `TypeScript` `Data Analysis` | [Live Site](https://scholarify.id/) 
+| **Aira Dry Cleaning Web** | Digitalized manual record-keeping into a self-service booking workflow—allowing customers to check pricing, schedule pickup/delivery, and view locations without prior chat. | `React` `CRUD System` `Payment Gateway` | [Live Site](https://aira-dry-cleaning.vercel.app/)
 | **Personal Portfolio** | Selected production builds, UI engineering work, and technical notes presented in a clean, focused showcase. | `TypeScript` `Next.js` | [ahmadnaim.site](https://www.ahmadnaim.site) |
 
 ---
@@ -65,14 +65,14 @@ Full-stack web developer focused on building maintainable, responsive, and relia
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/ZayeenJavas313">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=ZayeenJavas313&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="Ahmad Naim's GitHub Stats" />
-    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZayeenJavas313&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/zayeenjavas">
+    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=zayeenjavas&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="Ahmad Naim's GitHub Stats" />
+    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zayeenjavaslayout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top Languages" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ZayeenJavas313&theme=github_dark_blue&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=zayeenjavas&theme=github_dark_blue&hide_border=true" alt="GitHub Streak" />
 </div>
