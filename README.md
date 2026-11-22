@@ -55,9 +55,9 @@ Full-stack web developer focused on building maintainable, responsive, and relia
 
 | Project | Overview & Value | Stack & Capabilities | Links |
 | :--- | :--- | :--- | :--- |
-| **Sabana Adventure**<br>*(Asah Dicoding Capstone)* | End-to-end platform combining a **CRM Admin Retail Dashboard** for inventory and customer operations with an interactive **Customer Catalog** storefront. | `Full-Stack` `CRM Dashboard` `Retail Catalog` | ![In Developmen](https://sabana-adventure.vercel.app/)
-| **Scholarify Academy Web** | Company profile and SNBT tryout platform featuring structured data analysis to support student evaluation and informed decision-making. | `Next.js` `TypeScript` `Data Analysis` | [Live Site](https://scholarify.id/) 
-| **Aira Dry Cleaning Web** | Digitalized manual record-keeping into a self-service booking workflow—allowing customers to check pricing, schedule pickup/delivery, and view locations without prior chat. | `React` `CRUD System` `Payment Gateway` | [Live Site](https://aira-dry-cleaning.vercel.app/)
+| **Sabana Adventure**<br>*(Asah Dicoding Capstone)* | End-to-end platform combining a **CRM Admin Retail Dashboard** for inventory and customer operations with an interactive **Customer Catalog** storefront. | `Full-Stack` `CRM Dashboard` `Retail Catalog` | [sabana-adv.com](https://sabana-adventure.vercel.app/)
+| **Scholarify Academy Web** | Company profile and SNBT tryout platform featuring structured data analysis to support student evaluation and informed decision-making. | `Next.js` `TypeScript` `Data Analysis` | [Scholarify.id](https://scholarify.id/) 
+| **Aira Dry Cleaning Web** | Digitalized manual record-keeping into a self-service booking workflow—allowing customers to check pricing, schedule pickup/delivery, and view locations without prior chat. | `React` `CRUD System` `Payment Gateway` | [aira-dry-cleaning.com](https://aira-dry-cleaning.vercel.app/)
 | **Personal Portfolio** | Selected production builds, UI engineering work, and technical notes presented in a clean, focused showcase. | `TypeScript` `Next.js` | [ahmadnaim.site](https://www.ahmadnaim.site) |
 
 ---
